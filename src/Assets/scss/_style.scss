@@ -1,0 +1,19 @@
+/*======= All App Files Include Here ======*/
+
+//Default Bootstrap File
+@import "./bootstrap";
+
+/*==== Core Mixins ====*/
+@import "./custom/mixins/mixin";
+
+/*==== Core Utilities =====*/
+@import "./custom/utilities/utilities";
+
+// Custom Variables Files
+@import "./custom";
+
+// Custom Layout Files
+@import "./custom/layouts/layout";
+
+// Custom themes Files
+@import "./custom/themes/themes";
